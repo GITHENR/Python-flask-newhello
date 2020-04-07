@@ -30,4 +30,4 @@ jobs:
       with:
         app-name: 'python-flask-helloworld'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_27cba07099894e879083c6162abb62c8 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c85a5fb4b4d5426db065b2fb05a58fad }}
